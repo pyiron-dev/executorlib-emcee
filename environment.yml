@@ -3,3 +3,4 @@ channels:
 dependencies:
 - executorlib =0.0.5
 - emcee
+- tqdm
