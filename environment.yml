@@ -1,6 +1,6 @@
 channels:
 - conda-forge
 dependencies:
-- executorlib =0.0.5
+- executorlib
 - emcee
 - tqdm
